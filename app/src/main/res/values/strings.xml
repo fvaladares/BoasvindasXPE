@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Boas XPE</string>
+    <string name="ola_por_favor_informe_seu_nome_para_continuar">Ola, por favor, informe seu nome para continuar.</string>
+    <string name="nome_lbl">Nome</string>
+    <string name="enviar_lbl">Enviar</string>
+    <string name="boas_vindas_lbl">Boas vindas à</string>
+
+    <string name="lbl_boas_vindas_nome">Olá %s!!</string>
+</resources>
